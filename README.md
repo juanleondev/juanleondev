@@ -10,7 +10,7 @@
 💡 &nbsp;I like to share my knowledge with Flutter community.\
 🎓 &nbsp;I am a graduate of computer science at the National University of San Agustín (Arequipa, Perú).\
 💪 &nbsp;I am working hard to become a Google Developer Expert.\
-✉️ &nbsp;You can shoot me an email at juanjo@paulonia.dev I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at jjleoncamilo@gmail.com I'll try to respond as soon as I can.
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -38,7 +38,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/juanleoncamilo/"><img src="https://img.shields.io/badge/-Juan%20Leon%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:juanjo@paulonia.dev"><img src="https://img.shields.io/badge/-juanjo@paulonia.dev-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:jjleoncamilo@gmail.com"><img src="https://img.shields.io/badge/-jjleoncamilo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/Jjleonc"><img src="https://img.shields.io/badge/Join%20us%20on-Telegram-blue?style=flat-square&logo=telegram"/></a>
 
 </p>
