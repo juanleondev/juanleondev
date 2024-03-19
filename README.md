@@ -5,25 +5,23 @@
 ## 👋 &nbsp;Hey there! I'm Juan León 
 
 ### 👨🏻‍💻 &nbsp;About Me
-💻 &nbsp;I'm currently working with Flutter. \
-🌱 &nbsp;I'm Co-founder of [Paulonia](https://paulonia.dev/) \
-💡 &nbsp;I like to share my knowledge with Flutter community.\
-🎓 &nbsp;I am a graduate of computer science at the National University of San Agustín (Arequipa, Perú).\
-💪 &nbsp;I am working hard to become a Google Developer Expert.\
+💻 &nbsp;Currently working with Flutter and Firebase (+4 years). \
+💼 &nbsp;Software engineer at [Somnio Software](https://somniosoftware.com/) \
+🌱 &nbsp;Co-founder of [Paulonia](https://paulonia.dev/) \
+💡 &nbsp;Speaker at Flutter conferences/meetups\
+🎓 &nbsp;Bachelor of Computer Science at the National University of San Agustín (Arequipa, Perú).\
 ✉️ &nbsp;You can shoot me an email at jjleoncamilo@gmail.com I'll try to respond as soon as I can.
 
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
