@@ -5,8 +5,8 @@
 ## 👋 &nbsp;Hey there! I'm Juan León 
 
 ### 👨🏻‍💻 &nbsp;About Me
-💻 &nbsp;Currently working with Flutter and Firebase (+4 years). \
-💼 &nbsp;Software engineer at [Somnio Software](https://somniosoftware.com/) \
+💻 &nbsp;Currently working with Flutter and Firebase (+5 years). \
+💼 &nbsp;Senior Software engineer at [Somnio Software](https://somniosoftware.com/) \
 🌱 &nbsp;Co-founder of [Paulonia](https://paulonia.dev/) \
 💡 &nbsp;Speaker at Flutter conferences/meetups\
 🎓 &nbsp;Bachelor of Computer Science at the National University of San Agustín (Arequipa, Perú).\
